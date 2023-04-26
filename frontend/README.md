@@ -1,4 +1,4 @@
-### Social_Network ###
+# Social_Network #
 ## Front End ##
 VueJS, Vite, axios, bootstrap, jquery, pinia, socket.io-client, vee-validate
 
