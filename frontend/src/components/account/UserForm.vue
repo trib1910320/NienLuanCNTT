@@ -4,7 +4,7 @@
       <h3 class="modal-title" :id="modalLabels">
         <slot></slot>
       </h3>
-      <button class="btn border-0 text-danger" type="reset" data-bs-dismiss="modal" aria-label="Close">
+      <button class="btn border-0 text-danger" type="button" data-bs-dismiss="modal" aria-label="Close">
         <i class="fa-sharp fa-solid fa-circle-xmark" style="font-size: 1.5rem;"></i>
       </button>
     </div>
